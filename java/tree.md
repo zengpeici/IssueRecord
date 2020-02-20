@@ -7,3 +7,6 @@
 3.
 	*Q:What is a red black tree?
 	A:A red black tree is a type of self-balancing binary search tree, in which every node is colored with a red or black.
+4.
+	*Q:How to go through a red black tree from min to max?
+	A:Using inorder traversal and recursion.
